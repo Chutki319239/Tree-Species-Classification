@@ -38,7 +38,7 @@ tree_dataset_split/
 ---
 
 💾 Model Download
-GitHub doesn’t allow uploads over 25MB.
+GitHub doesn’t allow uploads over 10MB.
 
 Download trained .keras model from Google Drive:
 👉https://drive.google.com/file/d/1r4kK4S9b7UPikALebqkuu4SHL2owQ_OP/view?usp=drive_link
