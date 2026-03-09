@@ -33,7 +33,7 @@ tree_dataset_split/
 - Architecture: 3× Conv2D layers → MaxPooling → Flatten → Dense → Dropout → Output layer
 - Optimizer: Adam
 - Loss: Categorical Crossentropy
-- Accuracy: ~90% on validation set
+- Accuracy: ~37% on validation set later increased to ~65%.
 
 ---
 
